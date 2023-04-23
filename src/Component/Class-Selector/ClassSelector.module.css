@@ -1,0 +1,24 @@
+.selector{
+    width:14rem;
+    height:2.3rem;
+    padding-left: 7px;
+    color:#5b5454;
+   background-color: #FBFCFE;
+}
+.heading{
+    color: #2D3C51;
+}
+.main{
+
+    margin-left:10rem;
+    margin-top:3rem;
+}
+.selector:hover{
+    cursor: pointer;
+}
+.para{
+    margin: 0;
+    padding-top: 3px;
+    font-size: small;
+    color: #CECFD1;
+}

@@ -1,0 +1,36 @@
+.list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap:2px;
+    cursor: pointer;
+    
+}
+.list button{
+    border: 1px solid grey;
+    font-weight:600;
+    background-color: #CFDCFE;
+    display: flex;
+    color: #7582A4;
+    height: 2.3rem;
+    justify-content: center;
+    align-items: center;
+    width:13rem;
+    border:none;
+}
+button:focus{
+    background-color: #3167FF;
+    color: #D0EEFF;
+    border-radius: 8px;
+}
+.heading{
+    margin-left:9rem;
+    color:#2D3C51;
+    
+}
+.mainDiv{
+    background-color: white;
+}
+button:hover{
+    cursor: pointer;
+}

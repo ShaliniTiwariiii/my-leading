@@ -1,0 +1,9 @@
+.fee{
+    display: flex;
+    position: relative;
+    top:2rem;
+    background-color: #FBFCFE;
+}
+.mainFee{
+    background-color: #FBFCFE;  
+}

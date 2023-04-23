@@ -1,0 +1,82 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.smallDiv{
+    display: flex;
+    align-items: center;
+    margin-left: 10rem;
+    gap:1rem
+}
+.old{
+    color:#2D3C51;
+}
+.download{
+    color:#4C6BBD;
+    font-size: large;
+}
+.edit{
+    border: 1px solid gray;
+   color: gray;
+   padding:0rem 1rem 0rem;
+   cursor: pointer;
+}
+.add{
+    border: 1px solid gray;
+   color: #98B5F1; 
+   padding:0rem 0.2rem 0rem;
+   cursor: pointer;
+   display: flex;
+   justify-content:center ;
+   align-items: center;
+   gap:2px
+}
+.divwrap{
+display: flex;
+align-items: center;
+gap:15rem
+}
+.mainSpan{
+    width: 33rem;
+    margin-left: 10rem;
+    color:#93989E;
+    background-color: white;
+
+}
+.tution{
+    border: 1px solid #E9E9E9;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.money{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:1rem;
+}
+.para{
+    display: flex;
+    align-items: center;
+    margin-left: 10rem;
+    gap:1rem;
+}
+.inps{
+margin-left: 10rem;
+
+}
+input{
+    padding: 1rem;
+    width: 13rem;
+}
+.your{
+    display: flex;
+  gap:21rem;
+  color:#CCCDCF;
+    margin-left: 11rem;
+    font-size: 12px;
+    padding: 0.3rem;
+}
+.delete :hover{
+    cursor: pointer;
+   }
